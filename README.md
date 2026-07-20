@@ -1,16 +1,28 @@
-# pet_care_booking
+# MyPetCare
 
-A new Flutter project.
+MyPetCare is a Flutter-based mobile application developed as a Final Year Project (FYP) at Universiti Tun Hussein Onn Malaysia (UTHM).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Authentication
+- Pet Service Booking
+- Appointment Management
+- Payment Submission
+- Booking History
+- Customer Reviews
+- Firebase Authentication
+- Cloud Firestore Database
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+Akmal Zakwan
+Bachelor of Computer Science (Software Engineering)
+Universiti Tun Hussein Onn Malaysia (UTHM)
